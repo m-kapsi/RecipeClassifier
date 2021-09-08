@@ -1,0 +1,104 @@
+apple 
+apricot
+avocado
+banana
+bilberry
+blackberry
+blackcurrant
+blood orange
+blueberry
+boysenberry
+buddha's hand
+cantaloupe
+cherimoya
+cherry
+chico fruit
+chili pepper
+clementine 
+cloudberry
+coconut
+corn kernel
+crab apples
+cranberry
+cucumber
+currant
+custard apple
+damson
+date palm|date
+dragonfruit
+dried plum
+durian
+eggplant
+elderberry
+feijoa
+fig
+fingered citron
+goji berry
+gonzoberry
+gooseberry
+grape
+grapefruit
+guava
+honeyberry
+honeydew
+huckleberry
+jabuticaba
+jackfruit
+jambul
+jujube
+juniper berry
+kiwano
+kiwifruit
+kumquat
+lemon
+lime
+longan
+loquat
+lychee
+mandarine
+mango
+mangosteen
+marionberry
+melon
+miracle fruit
+mulberry
+nance
+nectarine
+olive
+orange
+papaya
+passionfruit
+pea
+peach
+pear
+persimmon
+pineapple
+plantain
+plum
+plumcot
+pluot
+pomegranate
+pomelo
+prune
+pumpkin
+purple mangosteen
+quince
+raisin
+rambutan
+raspberry
+redcurrant
+salak 
+salal berry
+salmonberry
+satsuma
+soursop
+squash
+star fruit
+strawberry
+tamarillo
+tamarind
+tangerine
+tomato
+ugli fruit
+watermelon
+yuzu

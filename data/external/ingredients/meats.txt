@@ -1,0 +1,22 @@
+alligator
+beef
+biltong
+cattle
+chicken
+goat
+mutton
+offal
+ostrich
+pheasant
+pork
+rabbit
+sheep
+veal
+venison
+wild boar
+zwartbles sheep
+Fish
+Salmon
+Tuna
+Cod
+
